@@ -131,10 +131,5 @@ Sales-Performance-Dashboard/
 └── images/
     └── Sales_dashboard.png
 ```
+## 📈 Dashboard Preview
 
----
-
-
-- Dynamic tooltips
-
----
