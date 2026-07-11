@@ -132,4 +132,4 @@ Sales-Performance-Dashboard/
     └── Sales_dashboard.png
 ```
 ## 📈 Dashboard Preview
-
+![Dashboard Preview](Sales_dashboard.png)
